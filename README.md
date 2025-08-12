@@ -1,2 +1,2 @@
-# useraja.github.io
+# /root
 Website HRIS sederhana
